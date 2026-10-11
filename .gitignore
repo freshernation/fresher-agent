@@ -1,0 +1,8 @@
+.env
+.venv/
+sessions/
+notes.txt
+__pycache__/
+*.pyc
+.DS_Store
+docs/superpowers/

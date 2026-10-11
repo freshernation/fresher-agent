@@ -1,0 +1,21 @@
+{
+  "name": "fresher-agent",
+  "displayName": "Fresher Agent",
+  "version": "0.1.0",
+  "description": "Start and build simple AI agents from the Fresher Agent template.",
+  "author": {
+    "name": "Fresher Nation",
+    "url": "https://github.com/freshernation"
+  },
+  "homepage": "https://github.com/freshernation/fresher-agent",
+  "repository": "https://github.com/freshernation/fresher-agent",
+  "keywords": [
+    "agent",
+    "template",
+    "beginner"
+  ],
+  "skills": [
+    "./.claude/skills/"
+  ],
+  "license": "MIT"
+}

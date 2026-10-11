@@ -1,0 +1,12 @@
+{
+  "name": "freshernation",
+  "description": "Simple, readable tools for people learning to build AI agents.",
+  "owner": { "name": "Fresher Nation", "url": "https://github.com/freshernation" },
+  "plugins": [
+    {
+      "name": "fresher-agent",
+      "source": "./",
+      "description": "Start and build simple AI agents from the Fresher Agent template."
+    }
+  ]
+}
